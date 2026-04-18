@@ -1,3 +1,0 @@
-/home/azeri/source/repos/NumberGuessingGame/build/CMakeFiles/NumberGuess.dir
-/home/azeri/source/repos/NumberGuessingGame/build/CMakeFiles/edit_cache.dir
-/home/azeri/source/repos/NumberGuessingGame/build/CMakeFiles/rebuild_cache.dir
